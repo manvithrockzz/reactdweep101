@@ -1,0 +1,32 @@
+.footer{
+    display: flex;
+    background: #282828;
+    color: white;
+    justify-content: space-between;
+    padding-top:  10px ;
+    padding-left: 120px;
+    padding-right: 120px;
+
+    
+}
+
+
+/* this is footer */
+.footer ul{
+    list-style: none;
+
+}
+
+.footer ul li{
+    margin-bottom:8px ;
+    cursor: pointer;
+    padding-bottom: 15px;
+}
+
+.footer-list2{
+    text-align: right;
+}
+
+.logo-list{
+    height: 16px;
+}
